@@ -1,0 +1,9 @@
+{
+  "name": "RemoteUi",
+  "version": "0.0.1",
+  "description": "Endpoint-defined menus and input streaming for ESP-NOW remotes.",
+  "repository": { "type": "git", "url": "https://github.com/Loaded-Dice/remoteui.git" },
+  "authors": [{ "name": "Loaded-Dice", "maintainer": true }],
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
